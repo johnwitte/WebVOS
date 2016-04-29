@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{581633EB-B896-402F-8E60-36F3DA191C85}") = "WebVOS", "WebVOS\WebVOS.lsxtproj", "{4C059F5B-2131-4D3C-98B8-E0D360AFA7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebVOS.Server", "WebVOS\WebVOS.Server\WebVOS.Server.csproj", "{0926587C-DE33-4743-9DE4-AA89D31D06D8}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "WebVOS.HTMLClient", "WebVOS\WebVOS.HTMLClient\WebVOS.HTMLClient.jsproj", "{52EF1594-E4E0-4A67-B1A8-47D704CD17E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C059F5B-2131-4D3C-98B8-E0D360AFA7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C059F5B-2131-4D3C-98B8-E0D360AFA7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C059F5B-2131-4D3C-98B8-E0D360AFA7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C059F5B-2131-4D3C-98B8-E0D360AFA7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0926587C-DE33-4743-9DE4-AA89D31D06D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0926587C-DE33-4743-9DE4-AA89D31D06D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0926587C-DE33-4743-9DE4-AA89D31D06D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0926587C-DE33-4743-9DE4-AA89D31D06D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EF1594-E4E0-4A67-B1A8-47D704CD17E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EF1594-E4E0-4A67-B1A8-47D704CD17E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EF1594-E4E0-4A67-B1A8-47D704CD17E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EF1594-E4E0-4A67-B1A8-47D704CD17E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
